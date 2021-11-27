@@ -8,5 +8,14 @@ The primary rideshare difference amoung the three city types is that we see a su
 
 Not only do the average fare volumes differ by week, but so do the average rides per week.  Over this time period, we see total rides in urban areas have much higher ride volumes, offsetting the fact that the average fare per ride is slightly less than Suburban and Rural areas.  Rural areas on the other hand see a very low total rides, but with a slightly higher average fare.  Suburban landing both in the middle of the pack with ride volume and average fare.
 
+See the image below including the details of the findings.
+
+https://github.com/JohnJohnson913/PyBer_Analysis/blob/d5d4a3acfe25dddca85ba959d9be4649692074f5/Territory_DF.png
+
 
 #  Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+
+The three recommendations I would make to address the disparities among the city types would be these:
+
+  1.  Given that rural areas typically more sparsly populated I would work to decrease the average fares in these areas.  It's likely that each individual using PyBer in rural areas needs to travel further for services.  This often cost more money, and can be a difficult choice to make, as rural areas are often not as enomonically properous.  Additionally for rural areas, I would campaign to increase available drivers.  Possibly offer additional mileage subsidies for urban drivers to assist in rural areas, as many urban drivers are not utilzied on a regular basis.
+  2.  
